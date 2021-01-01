@@ -2,7 +2,7 @@
 - [Yêu cầu hệ thống](#1)
 - [Thiết lập môi trường](#2)
 - [Tổng quan dữ liệu](#3)
-- [Hướng dẫn sử dụng](#4)
+- [Hướng dẫn sử dụng mô hình](#4)
   - [Sử dụng mô hình đã huấn luyện](#5)
 - [Deploy lên web local](#6)
 
@@ -14,9 +14,10 @@
 - `conda 4+`
 
 ### Thiết lập môi trường<a name="2"></a>
-Tải project 
+Tải project: git clone: https://github.com/huy-blu/NLP_TextClassification.git
 
-
+### Hướng dẫn sử dụng<a name="3"></a>
+'Sử dụng file phanloaichude.ipynb để chạy code mô hình và xem ghi chú
 
 ### Tổng quan về dữ liệu<a name="3"></a>
 
