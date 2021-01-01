@@ -2,16 +2,16 @@
 - [Yêu cầu hệ thống](#1)
 - [Thiết lập môi trường](#2)
 - [Tập dữ liệu](#3)
-- [Hướng dẫn sử dụng]
-  - [Sử dụng mô hình đã huấn luyện](#4)
-- [Deploy lên web local](#5)
+- [Hướng dẫn sử dụng](#4)
+  - [Sử dụng mô hình đã huấn luyện](#5)
+- [Deploy lên web local](#6)
 
 
 
 ### Yêu cầu hệ thống
-- Hệ điều hành: *window*
-- Python: *3.7*
-- conda 4+
+- `Hệ điều hành: *window*`
+- `Python: *3.7*`
+- `conda 4+`
 
 ### Thiết lập môi trường
 Tải project 
@@ -21,7 +21,7 @@ Tải project
 Dữ liệu của bài toán phân loại văn bản được lưu trong thư mục `data`, gồm hai thư mục con `raw` và `corpus`.
 
 * Dữ liệu thô được lưu trong thư mục `raw` bao gồm hai thư mục con `train` và `test`.
-* Dữ liệu huấn luyện và kiểm thử được lưu trong thư mục `corpus`.
+* Dữ liệu huấn luyện và kiểm thử được lưu trong thư mục `data`.
 
 Cấu trúc thư mục
 
@@ -56,8 +56,9 @@ Thư mục `data` chứa dữ liệu huấn luyện và kiểm thử tương t�
 ### Hướng dẫn sử dụng
 
 ### Deploy lên web local bằng Flask
+![][https://github.com/huy-blu/NLP_TextClassification/issues/1#issue-777177402]
 
-![alt text](C:\Users\Admin\Desktop\weblocal.png)
+
 
 
 
