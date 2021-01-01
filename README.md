@@ -8,15 +8,15 @@
 
 
 
-### Yêu cầu hệ thống(#){name=1}
+### Yêu cầu hệ thống[](#){name=1}
 - `Hệ điều hành: *window*`
 - `Python: *3.7*`
 - `conda 4+`
 
-### Thiết lập môi trường(#){name=2}
+### Thiết lập môi trường[](#){name=2}
 Tải project 
 
-### Tập dữ liệu(#){name=3}
+### Tập dữ liệu[](#){name=3}
 
 Dữ liệu của bài toán phân loại văn bản được lưu trong thư mục `data`, gồm hai thư mục con `raw` và `corpus`.
 
@@ -54,7 +54,7 @@ Tương tự như vậy với 9 thư mục còn lại.
 Thư mục `data` chứa dữ liệu huấn luyện và kiểm thử tương tự với 2 file `train.xlsx` và `test.xlsx`.
 
 
-### Deploy lên web local bằng Flask(#){name=6}
+### Deploy lên web local bằng Flask[](#){name=6}
 ![][https://github.com/huy-blu/NLP_TextClassification/issues/1#issue-777177402]
 
 
